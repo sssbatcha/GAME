@@ -1,1 +1,0 @@
-print("Legend Dr. Venkatesh sir")
